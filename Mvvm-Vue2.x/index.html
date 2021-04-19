@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+<body>
+  <div>
+    <input type="text" id="inp" oninput="changeValue()" />
+  </div>
+  <script src="./mvvm.js"></script>
+  <script>
+    var vm = new Mvvm({
+      data: {
+        name: 123,
+        age: 10,
+        sex: {
+          value: 1
+        }
+      },
+      computed: {
+        info () {
+          return `${this.name}今年是${this.age}`
+        }
+      },
+      watch: {
+        name (newData, oldData) {
+          console.log('我的新名字叫' + newData)
+        }
+      }
+    })
+    function changeValue (v) {
+      vm.name = document.querySelector('#inp').value
+    }
+    vm.$data.sex.num = 2
+    // vm.$data.sex.num = 1
+  </script>
+</body>
+</html>
