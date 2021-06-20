@@ -45,7 +45,7 @@ npm i webpack-dev-server@3.1.14 -D
 npm i html-webpack-plugin@3.2 -D
 ```
 
-2. 在`package.json`里增加配置
+2. 在`webpack.config.js`里增加配置
 
 ```js
 module.exports = {
@@ -79,4 +79,87 @@ module.exports = {
   "dev": "webpack-dev-server",
   ...
 },
+```
+
+## 解析样式文件
+
+1. 安装 loader 和插件
+
+```shell
+# 解析css文件
+npm i style-loader@0.23.1 css-loader@2.1.0 -D
+# 解析less文件
+npm i less@4.1.1 less-loader@4.1.0 -D
+# 抽离样式文件
+npm i mini-css-extract-plugin@0.5.0 -D
+# 增加样式前缀
+npm i postcss-loader@3.0.0 autoprefixer@9.4.3 -D
+# 压缩 CSS 和 JS 文件
+npm i optimize-css-assets-webpack-plugin@5.0.1 uglifyjs-webpack-plugin@2.1.0 -D
+```
+
+2. 在`webpack.config.js`里增加配置
+
+```js
+const MiniCssExtractPlugin = require('mini-css-extract-plugin')
+
+module.exports = {
+  ...
+  plugins: [ // 插件, 没有执行顺序可以随意书写
+    ...
+    new MiniCssExtractPlugin({
+      filename: 'index.[hash:8].css',
+    }),
+  ],
+  module: { // 模块
+    rules: [ // 规则
+      {
+        test: /\.css$/, // 匹配以.css结尾的文件
+        use: [
+          MiniCssExtractPlugin.loader,
+          'css-loader',
+          'postcss-loader',
+        ]
+      },
+      {
+        test: /\.less$/, // 匹配以.less结尾的文件
+        use: [
+          MiniCssExtractPlugin.loader,
+          'css-loader',
+          'postcss-loader',
+          'less-loader',
+        ]
+      },
+    ]
+  },
+  optimization: { // 优化项
+    minimizer: [
+      new UglifyJsPlugin({
+        cache: true,
+        parallel: true,
+        sourceMap: true,
+      }),
+      new OptimizeCssAssetsPlugin(),
+    ],
+  },
+}
+```
+
+3. 增加`postcss.config.js`文件
+
+```js
+module.exports = {
+  plugins: [
+    require('autoprefixer')({
+      "browsers": [
+        "defaults",
+        "not ie < 11",
+        "last 2 versions",
+        "> 1%",
+        "iOS 7",
+        "last 3 iOS versions"
+      ]
+    })
+  ]
+}
 ```
