@@ -48,6 +48,8 @@ npm i html-webpack-plugin@3.2 -D
 2. 在`webpack.config.js`里增加配置
 
 ```js
+const HtmlWebpackPlugin = require('html-webpack-plugin')
+
 module.exports = {
   ...
   devServer: { // 开发服务器的配置
@@ -102,6 +104,8 @@ npm i optimize-css-assets-webpack-plugin@5.0.1 uglifyjs-webpack-plugin@2.1.0 -D
 
 ```js
 const MiniCssExtractPlugin = require('mini-css-extract-plugin')
+const UglifyJsPlugin = require('uglifyjs-webpack-plugin')
+const OptimizeCssAssetsPlugin = require('optimize-css-assets-webpack-plugin')
 
 module.exports = {
   ...
@@ -161,5 +165,40 @@ module.exports = {
       ]
     })
   ]
+}
+```
+
+## ES6转Es5
+
+1. 安装插件
+
+```shell
+# es6转es5
+npm i babel-loader@8.0.4 @babel/core@7.2.2 @babel/preset-env@7.2.3 -D
+# es6的class类
+npm i @babel/plugin-proposal-class-properties@7.2.3 -D
+```
+
+2. 在`webpack.config.js`里增加配置
+
+```js
+module.exports = {
+  ...
+  module: { // 模块
+    rules: [ // 规则
+      {
+        test: /\.js$/,
+        use: {
+          loader: 'babel-loader',
+          options: {
+            presets: ['@babel/preset-env'],
+            plugins: ['@babel/plugin-proposal-class-properties'],
+          }
+        }
+      },
+      ...
+    ]
+  }
+  ...
 }
 ```
