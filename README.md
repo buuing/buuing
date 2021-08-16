@@ -5,7 +5,7 @@
 
 <a href="https://alili.tech"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" align="right" height="275" /></a>
 
-- **【大转盘 / 九宫格】抽奖插件 • [https://100px.net](https://100px.net)**
+- **[lucky-canvas【大转盘 / 九宫格】抽奖插件&ensp;<img src="https://img.shields.io/github/stars/LuckDraw/lucky-canvas?style=social" height="22.5" align="top" />](https://100px.net)**
 
 
 ## 前端面经
