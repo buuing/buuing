@@ -8,7 +8,7 @@
 
 ## 个人项目
 
-<a href="https://alili.tech"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" align="right" height="275" /></a>
+<a href="#"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" align="right" height="275" /></a>
 
 - **[`lucky-canvas`【大转盘 / 九宫格】抽奖插件&ensp;<img src="https://img.shields.io/github/stars/LuckDraw/lucky-canvas?style=social" height="22" align="top" />](https://github.com/LuckDraw/lucky-canvas)**
 
