@@ -16,7 +16,7 @@
 
 - [实战 2021 年【无删减版】面经【有码】 <img src="https://img.shields.io/github/stars/buuing/Interview?style=social" height="22" align="top" />](https://github.com/buuing/Interview)
 
-- [使用 JavaScript 记录 LeetCode 题解 <img src="https://img.shields.io/github/stars/buuing/leetcode?style=social" height="22" align="top" />](https://github.com/buuing/leetcode)
+- [使用 JavaScript 记录 LeetCode 题解&ensp;<img src="https://img.shields.io/github/stars/buuing/leetcode?style=social" height="22" align="top" />](https://github.com/buuing/leetcode)
 
 
 <br />
