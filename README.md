@@ -11,6 +11,8 @@
 
 - **[`lucky-canvas`【大转盘 / 九宫格】抽奖插件&ensp;<img src="https://img.shields.io/github/stars/LuckDraw/lucky-canvas?style=social" height="22" align="top" />](https://github.com/LuckDraw/lucky-canvas)**
 
+- [**`creep-cube`**&ensp;使用 Three.js 开发的魔方小游戏&ensp;<img src="https://img.shields.io/github/stars/buuing/creep-cube?style=social" height="22" align="top" />](https://github.com/buuing/creep-cube)
+
 - [**`right-menu`**&ensp;使用 Ts 开发的右键菜单插件&ensp;<img src="https://img.shields.io/github/stars/buuing/right-menu?style=social" height="22" align="top" />](https://github.com/buuing/right-menu)
 
 - [实战 2021 年【无删减版】面经【有码】 <img src="https://img.shields.io/github/stars/buuing/Interview?style=social" height="22" align="top" />](https://github.com/buuing/Interview)
