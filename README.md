@@ -9,7 +9,9 @@
 
 <a href="https://github.com/buuing"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" align="right" height="275" /></a>
 
-- **[`lucky-canvas`【大转盘 / 九宫格】抽奖插件&ensp;<img src="https://img.shields.io/github/stars/LuckDraw/lucky-canvas?style=social" height="22" align="top" />](https://github.com/LuckDraw/lucky-canvas)**
+- **[`lucky-canvas`【大转盘 / 九宫格】抽奖插件&ensp;<img src="https://img.shields.io/github/stars/buuing/lucky-canvas?style=social" height="22" align="top" />](https://github.com/buuing/lucky-canvas)**
+
+- [**`mini-sandbox`** 让前端代码或组件【在线编辑 & 实时预览】&ensp;<img src="https://img.shields.io/github/stars/buuing/mini-sandbox?style=social" height="22" align="top" />](https://github.com/buuing/mini-sandbox)
 
 - [**`creep-cube`**&ensp;使用 Three.js 开发的魔方小游戏&ensp;<img src="https://img.shields.io/github/stars/buuing/creep-cube?style=social" height="22" align="top" />](https://github.com/buuing/creep-cube)
 
