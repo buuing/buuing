@@ -7,7 +7,7 @@
 
 ## 个人项目
 
-<a href="https://github.com/buuing"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" align="right" height="270" /></a>
+<a href="https://github.com/buuing"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" align="right" height="265" /></a>
 
 - **[`lucky-canvas`【大转盘 / 九宫格 / 老虎机】抽奖插件&ensp;<img src="https://img.shields.io/github/stars/buuing/lucky-canvas?style=social" height="22" align="top" />](https://github.com/buuing/lucky-canvas)**
 
