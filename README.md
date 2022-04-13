@@ -1,7 +1,11 @@
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=buuing&show_icons=true&count_private=true&hide_border=true&cache_seconds=1900" />
+
+## About me
 
 - 🎖 web前端，泡杯茶，一道leetcode刷一天
 - 🥕 喜欢探索新奇的美食, 爱好软软糯糯的小姐姐
 - 😎 拒绝内卷从我做起...
+
 
 <br />
 
