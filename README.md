@@ -26,10 +26,10 @@
 
 | 项目 | Stars | Forks |
 | --- | --- | ---|
-| [**`lucky-canvas`【大转盘 / 九宫格 / 老虎机】抽奖插件**](https://github.com/buuing/lucky-canvas) | <img src="https://img.shields.io/github/stars/buuing/lucky-canvas?style=social" height="22" align="top" /> | <img src="https://img.shields.io/github/forks/buuing/lucky-canvas?style=social" height="22" align="top" /> |
-| [**`mini-sandbox`** 前端代码/组件【在线编辑 & 实时预览】](https://github.com/buuing/mini-sandbox) | <img src="https://img.shields.io/github/stars/buuing/mini-sandbox?style=social" height="22" align="top" /> | <img src="https://img.shields.io/github/forks/buuing/mini-sandbox?style=social" height="22" align="top" /> |
-| [**`right-menu`**&ensp;使用 Ts 开发的右键菜单插件](https://github.com/buuing/right-menu) | <img src="https://img.shields.io/github/stars/buuing/right-menu?style=social" height="22" align="top" /> | <img src="https://img.shields.io/github/forks/buuing/right-menu?style=social" height="22" align="top" /> |
-| [`creep-cube` 使用 Three.js 开发的魔方小游戏](https://github.com/buuing/creep-cube) | <img src="https://img.shields.io/github/stars/buuing/creep-cube?style=social" height="22" align="top" /> | <img src="https://img.shields.io/github/forks/buuing/creep-cube?style=social" height="22" align="top" /> |
+| [**`lucky-canvas` 一个使用 Ts + Canvas 开发的【大转盘 / 九宫格 / 老虎机】抽奖插件**](https://github.com/buuing/lucky-canvas) | <img src="https://img.shields.io/github/stars/buuing/lucky-canvas?style=social" height="22" align="top" /> | <img src="https://img.shields.io/github/forks/buuing/lucky-canvas?style=social" height="22" align="top" /> |
+| [**`mini-sandbox`** 实现前端代码 / 组件的【在线编辑 & 实时预览】并支持【React SFC / Vue SFC】](https://github.com/buuing/mini-sandbox) | <img src="https://img.shields.io/github/stars/buuing/mini-sandbox?style=social" height="22" align="top" /> | <img src="https://img.shields.io/github/forks/buuing/mini-sandbox?style=social" height="22" align="top" /> |
+| [**`right-menu`** 一个功能强大的右键菜单插件【多级菜单 / 异步渲染 / 骨架Loading / 自适应主题】](https://github.com/buuing/right-menu) | <img src="https://img.shields.io/github/stars/buuing/right-menu?style=social" height="22" align="top" /> | <img src="https://img.shields.io/github/forks/buuing/right-menu?style=social" height="22" align="top" /> |
+| [`creep-cube` 使用 Three.js 开发的魔方小游戏【自娱项目】](https://github.com/buuing/creep-cube) | <img src="https://img.shields.io/github/stars/buuing/creep-cube?style=social" height="22" align="top" /> | <img src="https://img.shields.io/github/forks/buuing/creep-cube?style=social" height="22" align="top" /> |
 | [实战 2021 年【无删减版】web前端面经【有码】](https://github.com/buuing/Interview) | <img src="https://img.shields.io/github/stars/buuing/Interview?style=social" height="22" align="top" /> | - |
 | [使用 JavaScript 记录 LeetCode 题解](https://github.com/buuing/leetcode) | <img src="https://img.shields.io/github/stars/buuing/leetcode?style=social" height="22" align="top" /> | - |
 
