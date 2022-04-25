@@ -1,10 +1,8 @@
 
 ## <img src="https://camo.githubusercontent.com/8653492b3ab0c46cc580ad293f0555880ecf8ac82f0a761f17af1335e85e4de6/68747470733a2f2f71706c7573706963747572652e6f73732d636e2d6265696a696e672e616c6979756e63732e636f6d2f364c6a6a51412f48692e676966" height="20"> About me
 
-- 🎖 web前端，大专学历，半路转行，喜欢并乐于参与开源；
-- 😎 对整齐规范的代码有着一丝执着，能将代码变的优雅也是一桩趣事；
-- 🥕 平时在家会探索新奇的美食，爱好软软糯糯的小姐姐；
-- 🍵 喜欢在凉爽的下午泡杯红茶，最好是滇红并且再加一点冰糖。抛开急躁的心情和时间的紧迫感，一天只刷一道 leetcode，慢慢的享受那种探索不同解法的过程，让自己慢下来
+- 🎖 web前端，对整齐规范的代码有着一丝执着，能将代码变的优雅也是一桩趣事；
+- 🥕 平时在家会探索新奇的美食...
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=buuing&show_icons=true&count_private=true&hide_border=true&cache_seconds=1900" />
 
