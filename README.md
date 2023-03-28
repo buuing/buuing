@@ -2,7 +2,7 @@
 ## <img src="https://camo.githubusercontent.com/8653492b3ab0c46cc580ad293f0555880ecf8ac82f0a761f17af1335e85e4de6/68747470733a2f2f71706c7573706963747572652e6f73732d636e2d6265696a696e672e616c6979756e63732e636f6d2f364c6a6a51412f48692e676966" height="20"> About me
 
 - 🎖 web前端，对整齐规范的代码有着一丝执着，能将代码变的优雅也是一桩趣事；
-- 🥕 平时在家会探索新奇的美食...
+- 🥕 喜欢爬山/徒步/攀岩/探洞/露营, 全程吊在车尾探索大自然的细节, 结果固然重要, 过程同样精彩；
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=buuing&show_icons=true&count_private=true&hide_border=true&cache_seconds=1900" />
 
@@ -29,7 +29,7 @@
 | [**`right-menu`** 功能强大的右键菜单插件【多级菜单 / 异步渲染 / 骨架Loading / 自适应主题】](https://github.com/buuing/right-menu) | <img src="https://img.shields.io/github/stars/buuing/right-menu?style=social" height="22" align="top" /> | <img src="https://img.shields.io/github/forks/buuing/right-menu?style=social" height="22" align="top" /> |
 | [`Rubiks-Cube` 使用 Three.js 开发的魔方小游戏【自娱项目】](https://github.com/buuing/Rubiks-Cube) | <img src="https://img.shields.io/github/stars/buuing/Rubiks-Cube?style=social" height="22" align="top" /> | <img src="https://img.shields.io/github/forks/buuing/Rubiks-Cube?style=social" height="22" align="top" /> |
 | [实战 2021 年【无删减版】web前端面经【有码】](https://github.com/buuing/Interview) | <img src="https://img.shields.io/github/stars/buuing/Interview?style=social" height="22" align="top" /> | - |
-| [使用 JavaScript 记录 LeetCode 题解](https://github.com/buuing/leetcode) | <img src="https://img.shields.io/github/stars/buuing/leetcode?style=social" height="22" align="top" /> | - |
+<!-- | [使用 JavaScript 记录 LeetCode 题解](https://github.com/buuing/leetcode) | <img src="https://img.shields.io/github/stars/buuing/leetcode?style=social" height="22" align="top" /> | - | -->
 
 <br />
 
