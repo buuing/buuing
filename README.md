@@ -1,9 +1,9 @@
 
 ## <img src="https://camo.githubusercontent.com/8653492b3ab0c46cc580ad293f0555880ecf8ac82f0a761f17af1335e85e4de6/68747470733a2f2f71706c7573706963747572652e6f73732d636e2d6265696a696e672e616c6979756e63732e636f6d2f364c6a6a51412f48692e676966" height="20"> About me
 
-- 🎖 web前端，对整齐规范的代码有着一丝执着，能将代码变的优雅也是一桩趣事；
+- 🎖 web前端，对代码的整洁与规范有些执着，享受将复杂逻辑打磨成优雅作品的过程；
 - 🏔 爱好长线重装徒步，喜欢在大自然的旷世神作里发呆；
-- 🥕 对制作美食有着一丝兴趣，希望可以成为一名高山厨子；
+- 🥕 喜欢折腾美食，向往成为一名行走山野的高山厨子；
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=buuing&show_icons=true&count_private=true&hide_border=true&cache_seconds=1900" />
 
